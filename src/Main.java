@@ -6,7 +6,7 @@ public class Main {
         int stepPlus = 20;
         int bonus = 1;
 
-        System.out.println("Количество бонусеых милей с покупки в 15555 рублей:");
+        System.out.println("Количество бонусных милей с покупки в " + ticket + " рублей:");
         System.out.println(ticket / stepPlus * bonus);
 
     }
